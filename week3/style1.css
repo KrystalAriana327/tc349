@@ -1,15 +1,16 @@
 html{
 	background:url(white_tiles.png);
-}}
+}
+
 
 #container {
-	width: 0 3%;
+	
 	
 }
 article{
 	width:200px;
-	padding:10px;
-	margin:10px;
+	padding:30px;
+	margin:20px;
 	float:left;
 
 }
@@ -28,9 +29,6 @@ footer{
 }
 
 img{
-	
 	border:1px solid;
-	float:left;
-	
-	
+	float:left;	
 }
