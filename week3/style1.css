@@ -1,15 +1,15 @@
+
+
 #container {
-	width:100%;
-	padding:0%;
-	border:0%;
-	margin:0%;
+	width: 0 3%;
+	
 }
 article{
-	width:800px;
-	float:left;
+	width:200px;
 	padding:10px;
-	background:#f3f3f3;
-	margin: 10px;
+	margin:10px;
+	float:left;
+
 }
 footer{
 	clear: both;
@@ -22,4 +22,12 @@ footer{
 	border:0px solid #e3e3e3;
 	margin:0px;
 	background:grey;
+}
+
+img{
+	
+	border:1px solid;
+	float:left;
+	
+	
 }
