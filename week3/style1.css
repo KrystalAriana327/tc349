@@ -1,0 +1,25 @@
+#container {
+	width:100%;
+	padding:0%;
+	border:0%;
+	margin:0%;
+}
+article{
+	width:800px;
+	float:left;
+	padding:10px;
+	background:#f3f3f3;
+	margin: 10px;
+}
+footer{
+	clear: both;
+	border-top:1px solid #e3e3e3;
+}
+
+#nav {
+	width:0 auto;
+	padding:0px;
+	border:0px solid #e3e3e3;
+	margin:0px;
+	background:grey;
+}
