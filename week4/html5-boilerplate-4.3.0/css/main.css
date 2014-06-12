@@ -125,10 +125,9 @@ h2{
 #map-location{
 	background: #e3e3e3;
 	background-position:center;
-	background-image:url("../img/b&wmap.jpg");
 	height:250px;
+	transition:background-image 1s;
 }
-
 
 nav{
 	float:left;
