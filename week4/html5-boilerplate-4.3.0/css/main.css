@@ -127,6 +127,7 @@ h2{
 	background-position:center;
 	background-image:url("../img/b&wmap.jpg");
 	height:250px;
+	transition:background-image 1s;
 }
 
 
